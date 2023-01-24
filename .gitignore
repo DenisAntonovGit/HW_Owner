@@ -1,10 +1,10 @@
-\.gradle
-\build
+.gradle
 \.idea
-
-gradlew.bat
-gradlew
-settings.gradle
+\build
 *.log
 *.class
-*.iml
+gradle/
+gradlew
+gradlew.bat
+\temp
+settings.gradle
